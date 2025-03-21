@@ -1,0 +1,58 @@
+body {
+background-color: rgb(237, 241, 209);
+color: #136368;
+
+}
+
+
+
+.bgc {
+
+    background-color: #136368;
+}
+
+.btn_home {
+   
+    width: 300px;
+    height: 80px;
+    border-radius: 2px;
+    background-color: orangered;
+    color: white;
+    border-width: 5px;
+    
+}
+
+
+.navp {
+
+    padding-left: 50px;
+
+}
+
+.slide {
+
+    margin-left: 68%;
+    width: 30%;
+    margin-top: 1%;
+}
+
+.txt1 {
+    margin-top: 2%;
+    margin-left: 70%;
+
+}
+
+.black {
+    background-color: #136368;
+    width: 500px;
+    margin-left: 1350px;
+    border-style: solid;
+    border-color: #136368;
+    border-radius: 10px;
+}
+
+.img {
+
+    border-radius: 80px;
+
+}
